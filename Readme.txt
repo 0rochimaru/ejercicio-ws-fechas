@@ -1,0 +1,1 @@
+Archivo que representa el primer commit.
